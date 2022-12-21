@@ -21,4 +21,4 @@ AI에 대한 관심이 있어 직접 만들며 많은 경험을 하려는 목적
 
 [처음 만나는 AI 수학 with Python][googlelink] | 아즈마 유키나가 저 / 유세라 역 | 영진닷컴 | 2021년 01월 15일  
 
-[googlelink]: http://www.yes24.com/Product/Goods/96805069 "Go google"
+[googlelink]: http://www.yes24.com/Product/Goods/96805069 "Go YES24"
