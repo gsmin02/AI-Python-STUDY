@@ -68,15 +68,16 @@ AI에 대한 관심이 있어 직접 만들며 많은 경험을 하려는 목적
 그러다 보니 나중에 알고리즘이 식으로 표현되었을 때 어떤 원리이고 어떻게 작동하는지 보이기 시작했습니다.  
   
 아직 남은 길이 많긴 하지만 어떻게 해야 만들 수 있을지 방향을 잡기 시작하는 장이었습니다.  
-
+  
 ## 출처
-
+  
 책을 기반으로 학습한 내용 변형 및 요약  
-
+  
 [처음 만나는 AI 수학 with Python][googlelink] | 아즈마 유키나가 저 / 유세라 역 | 영진닷컴 | 2021년 01월 15일  
-
+  
 [googlelink]: https://www.youngjin.com/book/book_detail.asp?prod_cd=9788931463378&seq=6775 "Go SITE"
 [2]: https://github.com/gsmin02/AI-Python-STUDY/blob/main/Chapter/Chapter%202.ipynb "Go Chapter2"
 [3]: https://github.com/gsmin02/AI-Python-STUDY/blob/main/Chapter/Chapter%203.ipynb "Go Chapter3"
 [4]: https://github.com/gsmin02/AI-Python-STUDY/blob/main/Chapter/Chapter%204.ipynb "Go Chapter4"
 [5]: https://github.com/gsmin02/AI-Python-STUDY/blob/main/Chapter/Chapter%205.ipynb "Go Chapter5"
+  
